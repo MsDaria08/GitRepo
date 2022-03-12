@@ -1,5 +1,5 @@
 #include <iostream>
-//бессмысленный комментарий
+//usekess comment
 int main(){
 std::string a;
 std::cout << "Hello world from @" << a << std::endl;
